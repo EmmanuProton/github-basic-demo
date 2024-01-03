@@ -15,7 +15,6 @@ EmmanuProton/github-basic-demo is built on the following main stack:
 - [RSpec](https://rspec.info/) – Testing Frameworks
 - [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- [Istio](https://istio.io/) – Microservices Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -37,7 +36,6 @@ EmmanuProton/github-basic-demo is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuProton/github-basic-demo](https://github.com/EmmanuProton/github-basic-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|01/03/24 <br/>Report generated|
+|29<br/>Tools used|01/03/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -123,7 +121,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (7)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'>
@@ -145,14 +143,6 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
   <br>
   <sub><a href="http://git-scm.com/">Git</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
-  <br>
-  <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -219,9 +209,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (11)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (13)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -230,11 +220,13 @@ Full tech stack [here](/techstack.md)
 |[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|05/01/23|emmanu-bacancy |MIT|N/A|
 |[faker](https://rubygems.org/faker)|v3.2.0|04/25/23|emmanu-bacancy |MIT|N/A|
 |[jbuilder](https://rubygems.org/jbuilder)|v2.11.5|04/25/23|emmanu-bacancy |MIT|N/A|
+|[omniauth-github](https://rubygems.org/omniauth-github)|v1.4.0|05/01/23|emmanu-bacancy |MIT|N/A|
 |[rest-client](https://rubygems.org/rest-client)|v2.1.0|05/01/23|emmanu-bacancy |MIT|N/A|
 |[rspec-rails](https://rubygems.org/rspec-rails)|v6.0.1|05/01/23|emmanu-bacancy |MIT|N/A|
 |[selenium-webdriver](https://rubygems.org/selenium-webdriver)|v4.9.0|04/25/23|emmanu-bacancy |Apache-2.0|N/A|
 |[sprockets-rails](https://rubygems.org/sprockets-rails)|v3.4.2|05/01/23|emmanu-bacancy |MIT|N/A|
 |[sqlite3](https://rubygems.org/sqlite3)|v1.6.2|05/01/23|emmanu-bacancy |BSD-3-Clause|N/A|
+|[web-console](https://rubygems.org/web-console)|v4.2.0|04/25/23|emmanu-bacancy |MIT|N/A|
 |[webdrivers](https://rubygems.org/webdrivers)|v5.2.0|04/25/23|emmanu-bacancy |MIT|N/A|
 
 <br/>
