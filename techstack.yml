@@ -1,12 +1,12 @@
 repo_name: EmmanuProton/github-basic-demo
-report_id: 155c06ce941869a92abf394cdbf7ebf0
+report_id: 2d1749ed9a5a4f1de31ee7c5fbd5eca5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-03T12:30:02+00:00'
+timestamp: '2024-01-03T12:37:09+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: main
-detected_tools_count: 28
+detected_tools_count: 29
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -129,19 +129,6 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
-- name: Istio
-  description: Open platform to connect, manage, and secure microservices, by Google,
-    IBM, and Lyft
-  website_url: https://istio.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Microservices Tools
-  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source: config/database.yml
-  last_updated_by: emmanu-bacancy
-  last_updated_on: 2023-04-25 04:01:40.000000000 Z
 - name: Puma
   description: A Modern, Concurrent Web Server for Ruby
   website_url: http://puma.io/
@@ -291,6 +278,20 @@ tools:
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
   last_updated_on: 2023-04-25 04:01:40.000000000 Z
+- name: omniauth-github
+  description: Official OmniAuth strategy for GitHub
+  package_url: https://rubygems.org/omniauth-github
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/EmmanuProton/github-basic-demo/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: emmanu-bacancy
+  last_updated_on: 2023-05-01 12:07:53.000000000 Z
 - name: rest-client
   description: A simple HTTP and REST client for Ruby
   package_url: https://rubygems.org/rest-client
@@ -362,6 +363,20 @@ tools:
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
   last_updated_on: 2023-05-01 12:07:53.000000000 Z
+- name: web-console
+  description: A debugging tool for your Ruby on Rails applications
+  package_url: https://rubygems.org/web-console
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/EmmanuProton/github-basic-demo/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: emmanu-bacancy
+  last_updated_on: 2023-04-25 04:01:40.000000000 Z
 - name: webdrivers
   description: Run Selenium tests more easily with install and updates for all supported
     webdrivers
