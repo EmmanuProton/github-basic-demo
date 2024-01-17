@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 EmmanuProton/github-basic-demo is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuProton/github-basic-demo](https://github.com/EmmanuProton/github-basic-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|01/12/24 <br/>Report generated|
+|30<br/>Tools used|01/17/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -71,7 +71,7 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
+  <img width='36' height='36' src='https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/' alt='Ruby'>
   <br>
   <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
   <br>
@@ -94,17 +94,10 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (3)
+## <img src=''/> Datab
+ases (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'>
-  <br>
-  <sub><a href="http://redis.io/">Redis</a></sub>
-  <br>
-  <sub>v4.8.1</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'>
   <br>
   <sub><a href="http://www.sqlite.org/">SQLite</a></sub>
@@ -112,18 +105,10 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'>
-  <br>
-  <sub><a href="http://sidekiq.org/">Sidekiq</a></sub>
-  <br>
-  <sub>v6.5.8</sub>
-</td>
-
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (7)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'>
@@ -158,14 +143,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'>
-  <br>
-  <sub><a href="http://puma.io/">Puma</a></sub>
-  <br>
-  <sub>v5.6.5</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'>
   <br>
   <sub><a href="https://rspec.info/">RSpec</a></sub>
@@ -184,20 +161,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'>
-  <br>
-  <sub><a href="http://sendgrid.com">Twilio SendGrid</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-</tr>
-</table>
-
-## Other (2)
+## Other (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'>
@@ -215,21 +179,55 @@ Full tech stack [here](/techstack.md)
   <sub>v1.9.2</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'>
+  <br>
+  <sub><a href="http://puma.io/">Puma</a></sub>
+  <br>
+  <sub>v5.6.5</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'>
+  <br>
+  <sub><a href="http://redis.io/">Redis</a></sub>
+  <br>
+  <sub>v4.8.1</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'>
+  <br>
+  <sub><a href="http://sidekiq.org/">Sidekiq</a></sub>
+  <br>
+  <sub>v6.5.8</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'>
+  <br>
+  <sub><a href="http://sendgrid.com">Twilio SendGrid</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (11)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (13)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[byebug](https://rubygems.org/byebug)|v11.1.3|05/01/23|emmanu-bacancy |BSD-2-Clause|N/A|
+|[capybara](https://rubygems.org/capybara)|v3.39.0|04/25/23|emmanu-bacancy |MIT|N/A|
 |[dotenv-rails](https://rubygems.org/dotenv-rails)|v2.8.1|05/01/23|emmanu-bacancy |MIT|N/A|
 |[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|05/01/23|emmanu-bacancy |MIT|N/A|
 |[faker](https://rubygems.org/faker)|v3.2.0|04/25/23|emmanu-bacancy |MIT|N/A|
 |[jbuilder](https://rubygems.org/jbuilder)|v2.11.5|04/25/23|emmanu-bacancy |MIT|N/A|
+|[redis](https://rubygems.org/redis)|v4.8.1|04/27/23|emmanu-bacancy |MIT|N/A|
 |[rest-client](https://rubygems.org/rest-client)|v2.1.0|05/01/23|emmanu-bacancy |MIT|N/A|
 |[rspec-rails](https://rubygems.org/rspec-rails)|v6.0.1|05/01/23|emmanu-bacancy |MIT|N/A|
 |[selenium-webdriver](https://rubygems.org/selenium-webdriver)|v4.9.0|04/25/23|emmanu-bacancy |Apache-2.0|N/A|
