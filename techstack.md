@@ -3,19 +3,18 @@
 ## Tech Stack
 EmmanuProton/github-basic-demo is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [Redis](http://redis.io/) – In-Memory Databases
-- [Puma](http://puma.io/) – Web Servers
-- [SQLite](http://www.sqlite.org/) – Databases
 - [Sidekiq](http://sidekiq.org/) – Background Processing
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
-- [RSpec](https://rspec.info/) – Testing Frameworks
 - [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - [Istio](https://istio.io/) – Microservices Tools
+- [Puma](http://puma.io/) – Web Servers
+- [RSpec](https://rspec.info/) – Testing Frameworks
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +24,18 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 EmmanuProton/github-basic-demo is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'/> [Sidekiq](http://sidekiq.org/) – Background Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1433/omniauth.png' alt='OmniAuth'/> [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/1433/omniauth.png' alt='OmniAuth'/> [OmniAuth](https://github.com/intridea/omniauth) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuProton/github-basic-demo](https://github.com/EmmanuProton/github-basic-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|01/22/24 <br/>Report generated|
+|26<br/>Tools used|02/28/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -94,7 +92,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (3)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'>
@@ -102,14 +100,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://redis.io/">Redis</a></sub>
   <br>
   <sub>v4.8.1</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'>
-  <br>
-  <sub><a href="http://www.sqlite.org/">SQLite</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 <td align='center'>
@@ -219,9 +209,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (11)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (10)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -234,7 +224,6 @@ Full tech stack [here](/techstack.md)
 |[rspec-rails](https://rubygems.org/rspec-rails)|v6.0.1|05/01/23|emmanu-bacancy |MIT|N/A|
 |[selenium-webdriver](https://rubygems.org/selenium-webdriver)|v4.9.0|04/25/23|emmanu-bacancy |Apache-2.0|N/A|
 |[sprockets-rails](https://rubygems.org/sprockets-rails)|v3.4.2|05/01/23|emmanu-bacancy |MIT|N/A|
-|[sqlite3](https://rubygems.org/sqlite3)|v1.6.2|05/01/23|emmanu-bacancy |BSD-3-Clause|N/A|
 |[webdrivers](https://rubygems.org/webdrivers)|v5.2.0|04/25/23|emmanu-bacancy |MIT|N/A|
 
 <br/>
