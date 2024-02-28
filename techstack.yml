@@ -1,12 +1,12 @@
 repo_name: EmmanuProton/github-basic-demo
-report_id: 88b0fb7e36ffb1f83333fb1713648ee0
+report_id: 54f99ae3f7712be2144cfc2eef883695
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-22T15:14:34+00:00'
-requested_by: emmanu-bacancy
+timestamp: '2024-02-28T19:57:42+00:00'
+requested_by: emmanu-proton
 provider: github
 branch: main
-detected_tools_count: 28
+detected_tools_count: 26
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -71,19 +71,6 @@ tools:
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
   last_updated_on: 2023-04-27 11:19:09.000000000 Z
-- name: SQLite
-  description: A software library that implements a self-contained, serverless, zero-configuration,
-    transactional SQL database engine
-  website_url: http://www.sqlite.org/
-  open_source: false
-  hosted_saas: true
-  category: Data Stores
-  sub_category: Databases
-  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
-  detection_source_url: https://github.com/EmmanuProton/github-basic-demo/blob/main/Gemfile
-  detection_source: Gemfile
-  last_updated_by: emmanu-bacancy
-  last_updated_on: 2023-04-25 04:01:40.000000000 Z
 - name: Sidekiq
   description: Simple, efficient background processing for Ruby
   website_url: http://sidekiq.org/
@@ -351,21 +338,6 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19198/default_be4b4d308c5637e0747ed40c613027452d6ef0c5.png
-  detection_source_url: https://github.com/EmmanuProton/github-basic-demo/blob/main/Gemfile.lock
-  detection_source: Gemfile
-  last_updated_by: emmanu-bacancy
-  last_updated_on: 2023-05-01 12:07:53.000000000 Z
-- name: sqlite3
-  description: This module allows Ruby programs to interface with the SQLite3 database
-    engine
-  package_url: https://rubygems.org/sqlite3
-  version: 1.6.2
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: RubyGems Packages
-  image_url: https://img.stackshare.io/package/18820/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
   detection_source_url: https://github.com/EmmanuProton/github-basic-demo/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
